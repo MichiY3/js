@@ -72,9 +72,11 @@ console.log(StudentList[4].hobby);
 console.log(StudentList[0].hobby);
 console.log(StudentList[0]['hobby']);
 
-Let PlaceList = [
+// ５次元配列　入れ子５個！
 
-]
+let creature =['魚類','両生類','爬虫類','鳥類','哺乳類'];
+
+
 
 
 
